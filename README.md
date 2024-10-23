@@ -12,7 +12,7 @@ I'm excited to share my journey in **Software Development** and various **IT pro
 ### 🖥️ Programming Languages and Technologies:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white): Scripting, automation, and data processing.
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white): High-performance systems and embedded applications.
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white): Cross-platform desktop applications and Android development.
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white): Cross-platform desktop applications and Android development.
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white): Web backends, APIs, and everything in between.
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white): Building structured web pages.
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white): Styling responsive web pages.
