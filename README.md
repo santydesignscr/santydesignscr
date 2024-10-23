@@ -2,8 +2,6 @@
 
 I'm excited to share my journey in **Software Development** and various **IT projects**. Whether you're here to collaborate or just browse through my work, you're in the right place!
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile) <!-- Replace this placeholder with a custom banner -->
-
 ### 🔭 I’m currently working on:
 - **[Xera Project](https://github.com/santydesignscr/Xera)**: A great website plataform inspired by InfinityFree, with a great ACME SSL implementatio with DNS automation, and more!
 
@@ -41,12 +39,7 @@ I'm excited to share my journey in **Software Development** and various **IT pro
 
 ---
 
-### 📫 How to reach me:
-- Feel free to drop me an email: **[info@bytewave.webcr.top](mailto:info@bytewave.webcr.top)**
-
----
-
-### 📚 My Projects:
+### 📚 Projects:
 #### Xera by mahtab2003
 [Xera](https://github.com/mahtab2003/Xera) is an open-source project that some time ago I started collaborating. It aims to provide a web hosting platform with features similar to **InfinityFree.net**. Here's what I'm working on:
 - **ACME SSL Automation**: Seamless SSL provisioning using Let’s Encrypt.
@@ -54,6 +47,14 @@ I'm excited to share my journey in **Software Development** and various **IT pro
 - **Performance Optimizations**: Speeding up backend processes and reducing load times.
 
 Stay tuned for more updates as I continue to enhance the platform!
+
+#### Encryption App
+[Encryption App](https://github.com/santydesignscr/encryption-app) is another exciting project I’m working on. It focuses on providing simple and secure encryption for files and data. Key features include:
+- **File Encryption**: Secure your files using AES encryption.
+- **Data Security**: Protect sensitive information with cutting-edge encryption algorithms.
+- **User-Friendly Interface**: Easy-to-use, with a clean interface for quick encryption/decryption tasks.
+
+Feel free to check it out and contribute!
 
 ---
 
@@ -78,6 +79,11 @@ As a student, I'm constantly learning and improving my skills. Recently, I’ve 
 - **DevOps**: Automation, CI/CD pipelines, container orchestration (Kubernetes, Docker).
 - **Cybersecurity**: Strengthening systems and applications with robust security measures.
 - **Cloud Platforms**: Learning **Oracle Cloud** and **AWS** for scaling applications.
+
+---
+
+### 📫 How to reach me:
+- Feel free to drop me an email: **[info@bytewave.webcr.top](mailto:info@bytewave.webcr.top)**
 
 ---
 
