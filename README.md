@@ -83,7 +83,7 @@ As a student, I'm constantly learning and improving my skills. Recently, I’ve 
 ---
 
 ### 📫 How to reach me:
-- Feel free to drop me an email: **[info@bytewave.webcr.top](mailto:info@bytewave.webcr.top)**
+- Feel free to drop me an email: **[info@bytewave.bxco.de](mailto:info@bytewave.bxco.de)**
 
 ---
 
