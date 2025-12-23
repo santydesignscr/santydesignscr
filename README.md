@@ -11,9 +11,9 @@ I'm excited to share my journey in **Software Development** and various **IT pro
 
 ### 🖥️ Programming Languages and Technologies:
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white): Web backends, APIs, and everything in between.
-- ![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white): Frontend moderno y reactivo.
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black): Interfaces dinámicas basadas en componentes.
-- ![Inertia.js](https://img.shields.io/badge/-Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white): Apps SPA sin abandonar el backend tradicional.
+- ![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white): Modern and reactive frontend
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black): Dynamic UIs and components.
+- ![Inertia.js](https://img.shields.io/badge/-Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white): Reactive apps following a traditional monolytic achitecture.
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white): Building structured web pages.
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white): Styling responsive web pages.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black): Web front-end and server-side scripting.
