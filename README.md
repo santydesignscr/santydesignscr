@@ -1,76 +1,72 @@
-# Hi there 👋 Welcome to my GitHub!
+# Santiago Rodríguez Castillo
 
-I'm excited to share my journey in **Software Development** and various **IT projects**. Whether you're here to collaborate or just browse through my work, you're in the right place!
+Backend Developer focused on systems, infrastructure and real-world deployments.
 
-### 🔭 I’m currently working on:
-- **[Xera Project](https://github.com/mahtab2003/Xera)**: A great website plataform inspired by InfinityFree, with a great ACME SSL implementatio with DNS automation, and more!
-
-### 🌱 I’m currently:
-- Pursuing a **Web Development Medium Technical Title**.
-- Exploring **Scalable SAAS Infraestructure** and **Developing some closed source projects for clients** .
-
-### 🖥️ Programming Languages and Technologies:
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white): Web backends, APIs, and everything in between.
-- ![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white): Modern and reactive frontend
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black): Dynamic UIs and components.
-- ![Inertia.js](https://img.shields.io/badge/-Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white): Reactive apps following a traditional monolytic achitecture.
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white): Building structured web pages.
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white): Styling responsive web pages.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black): Web front-end and server-side scripting.
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white): Scripting, automation, and data processing.
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white): High-performance systems and embedded applications.
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white): Cross-platform desktop applications and Android development.
-  
----
-
-### 💬 Ask me about:
-- Web Development, APIs, and Backend Systems.
-- Modern frontend frameworks (React, Next.js and Vue).
-- SSL Certificate management using ACME protocols (Let’s Encrypt, etc.).
-- Networking and server infrastructure
-- Electronics and Arduino
-- Computers and IT support
-  
-### ⚡ Fun Fact:
-- My favorite language for web development is PHP, currently, I use it for all of my web projects.
-- I really like electronics and electricity.
+I build and deploy production-ready applications, combining backend/frontend development, cloud services and server management.
 
 ---
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santydesignscr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santydesignscr&layout=compact&theme=radical)
+## 🚀 What I do
+
+- Design and develop backend systems using Node.js, PHP and modern frameworks
+- Build scalable architectures (multi-tenant SaaS, real-time apps)
+- Deploy applications on VPS and Cloud using Docker and CI/CD pipelines
+- Integrate external services (payments, messaging, queues, APIs)
+- Work with infrastructure, networking and automation
 
 ---
 
-### 🚀 Tools & Technologies I Use:
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git**
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub**
-- ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) **CodeIgniter**
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) **Laravel**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL**
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux**
-- ![VMWare](https://img.shields.io/badge/-VMWare-607078?style=flat-square&logo=vmware&logoColor=white) **VMWare**
-- ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) **VirtualBox**
-- ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) **Cloudflare**
-- ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) **Oracle Cloud** (Still learning)
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **Amazon Web Services** (Still learning)
+## 🧠 Core Stack
+
+**Backend:** Node.js (Express, Next.js, NestJS), PHP, .NET  
+**Databases:** PostgreSQL, MySQL, Redis, Supabase, Firebase  
+**DevOps:** Docker, Linux, VPS, CI/CD, Caddy, Coolify, Dockploy  
+**Cloud & Infra:** Networking, DNS, SSL (ACME), server provisioning  
 
 ---
 
-### 💡 Learning and Growth:
-As a student, I'm constantly learning and improving my skills. Recently, I’ve been diving deeper into:
-- **DevOps**: Automation, CI/CD pipelines, container orchestration (Kubernetes, Docker).
-- **Cybersecurity**: Strengthening systems and applications with robust security measures.
-- **Cloud Platforms**: Learning **Oracle Cloud** and **AWS** for scaling applications.
+## 🔥 Featured Projects
+
+### 🎮 Quiz Platform (NestJS + Realtime)
+Scalable multiplayer quiz system  
+- Realtime communication with Supabase  
+- Backend architecture with NestJS  
+- Deployment with Docker and Caddy
 
 ---
 
-### 📫 How to reach me:
-- Feel free to drop me an email: **[info@bytewave.bxco.de](mailto:info@bytewave.bxco.de)**
+### ⚙️ Xera (Contribution)
+Hosting platform with SSL automation and DNS integration  
+- ACME SSL automation  
+- DNS-based certificate provisioning  
+- Hosting account management improvements  
 
 ---
 
-### 🌐 Let’s Connect:
-If you’re interested in collaborating, discussing web development or anything else, don’t hesitate to reach out!
+### 💳 Multi-Server Provisioner (Paymenter Extension)
+Server orchestration system  
+- Pool-based server allocation  
+- Capacity-based provisioning  
+- Multi-server management logic  
+
+---
+
+### 🔐 EncryptionApp v2
+Local-first AES-256-GCM encryption tool  
+- File, text and password encryption  
+- No network or cloud dependency  
+- Desktop application in Python    
+
+---
+
+## ⚡ Currently
+
+- Working on a comming soon SAAS called Dayforge
+- Working on real-world deployments and automation  
+- Improving cloud and infrastructure skills  
+
+---
+
+## 📫 Contact
+
+- Email: santiago.rodriguez.castillo.cr@gmail.com
