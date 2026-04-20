@@ -1,6 +1,6 @@
 # Santiago Rodríguez Castillo
 
-Backend Developer focused on systems, infrastructure and real-world deployments.
+Software Developer focused on systems, infrastructure and real-world deployments.
 
 I build and deploy production-ready applications, combining backend/frontend development, cloud services and server management.
 
