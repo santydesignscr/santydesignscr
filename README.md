@@ -70,3 +70,4 @@ Local-first AES-256-GCM encryption tool
 ## 📫 Contact
 
 - Email: santiago.rodriguez.castillo.cr@gmail.com
+- Linkedin: https://www.linkedin.com/in/santiagorodriguezdev
